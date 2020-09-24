@@ -1,6 +1,6 @@
 <?php
- $consumerKey    = 'gtgWGL2YLRBaJoNy3I0E77eGmEJGE6DW';
-  $consumerSecret   = 'GViqPQD8JEXxe5dL';
+ $consumerKey    = 'agtgWGL2YLRBaJoNy3I0E77eGmEJGE6DW';
+  $consumerSecret   = 'dGViqPQD8JEXxe5dL';
 
 
   $headers = ['Content-Type:application/json; charset=utf-8'];
