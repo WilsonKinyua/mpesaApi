@@ -1,7 +1,7 @@
   <?php
      $url = 'https://sandbox.safaricom.co.ke/mpesa/c2b/v1/simulate';
     
-    $access_token = 'Mf6ls9lCYtN3shFdPa2PwP7iRHKS'; // check file mpesa_accesstoken.php.    
+    $access_token = 'aMf6ls9lCYtN3shFdPa2PwP7iRHKS'; // check file mpesa_accesstoken.php.    
     $ShortCode  = '600597'; // Shortcode. Same as the one on register_url.php
     $amount     = '6000'; // amount the client/we are paying to the paybill
     $msisdn     = '254708374149'; // phone number paying 
